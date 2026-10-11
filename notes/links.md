@@ -11,7 +11,12 @@
 - [math](https://docs.python.org/3/library/math.html)
 - [random](https://docs.python.org/3/library/random.html)
 - [Оператор with](https://docs.python.org/3/reference/compound_stmts.html#with)
+- [str.lower() — все буквы маленькие](https://docs.python.org/3/builtins/stdtypes.html#str.lower)
+- [str.strip() — убрать пробелы и переносы по краям](https://docs.python.org/3/builtins/stdtypes.html#str.strip)
+- [str.title() — Каждое Слово С Заглавной](https://docs.python.org/3/builtins/stdtypes.html#str.title)
+- [type() — узнать тип значения (int, str…)](https://docs.python.org/3/builtins/functions.html#type)
 
 ## Инструменты
 - [pip — документация](https://pip.pypa.io/en/stable/)
 - [Горячие клавиши VS Code для Windows (PDF)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
