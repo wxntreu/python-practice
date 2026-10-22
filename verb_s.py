@@ -7,4 +7,4 @@ def add_s(verb):
 
 
 for v in ["read", "think", "fly", "dance", "have", "finish", "play"]:
-    print(v, "->", add_s(v))
+    print(v, "->", add_s(v), sep="")
