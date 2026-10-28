@@ -2,4 +2,4 @@ venv/
 __pycache__/
 Untitled-1.py
 test_program.py
-pytest.ini
+pytest.ini*.exe
